@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @sarveshyadav21
-- 👀 I’m interested in ... Full-Stack Web development
-- 🌱 I’m currently learning ... Full-Stack Java Development
-- 💞️ I’m looking to collaborate on ... web development 
-- 📫 How to reach me ... www.linkedin.com/in/sarvesh-yadav-84bb53150
+# Hi, I'm Sarvesh Yadav 👋
 
-<!---
-sarveshyadav21/sarveshyadav21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-Stack Software Engineer building scalable web applications, AI-powered products, and real-time systems.
+
+## About Me
+
+- 💼 Software Engineer at Sheshi AI
+- 🏗️ Core contributor to an AI-powered Incident Intelligence Platform
+- 🌐 Experienced in Next.js, React, Node.js, NestJS, Java, and Spring Boot
+- 🤖 Building AI integrations, RAG workflows, and agentic applications
+- ☁️ Working with AWS, Docker, Redis, PostgreSQL, and real-time architectures
+- 📈 Passionate about system design, performance optimization, and product engineering
+
+## Tech Stack
+
+### Frontend
+Next.js • React.js • TypeScript • JavaScript • Redux • Tailwind CSS
+
+### Backend
+Java • Spring Boot • Node.js • NestJS • Express.js • REST APIs • WebSockets
+
+### Databases
+PostgreSQL • MySQL • Redis
+
+### Cloud & DevOps
+AWS • Docker • GitHub Actions • Linux
+
+### AI & Data
+OpenAI APIs • RAG • Vector Search • Prompt Engineering • Agentic Workflows
+
+## Featured Projects
+
+### Incident Intelligence Platform
+AI-powered multimodal incident intelligence platform for DevOps and SRE teams. Features incident correlation, AI summarization, workflow automation, analytics, and real-time monitoring.
+
+### AI-Powered SaaS Applications
+Built production-ready full-stack applications with authentication, payments, real-time communication, and cloud deployment.
+
+## Current Focus
+
+- AI Agents & RAG Systems
+- Scalable Backend Architecture
+- Next.js Performance Optimization
+- Distributed Systems
+
+## Connect With Me
+
+📧 sarveshyadav5971@gmail.com
+
+💼 LinkedIn: linkedin.com/in/sarvesh-yadav-84bb53150
+
+🌍 Bangalore, India
