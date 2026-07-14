@@ -17,7 +17,7 @@
 Next.js • React.js • TypeScript • JavaScript • Redux • Tailwind CSS
 
 ### Backend
-Java • Spring Boot • Node.js • NestJS • Express.js • REST APIs • WebSockets
+Node.js • NestJS • Express.js • REST APIs • WebSockets
 
 ### Databases
 PostgreSQL • MySQL • Redis
@@ -26,7 +26,7 @@ PostgreSQL • MySQL • Redis
 AWS • Docker • GitHub Actions • Linux
 
 ### AI & Data
-OpenAI APIs • RAG • Vector Search • Prompt Engineering • Agentic Workflows
+OpenAI APIs • RAG • Vector Search • Prompt Engineering • Agentic Workflows • LLM
 
 ## Featured Projects
 
