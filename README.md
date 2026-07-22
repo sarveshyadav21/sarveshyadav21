@@ -31,22 +31,16 @@ OpenAI APIs • RAG • Vector Search • Prompt Engineering • Agentic Workflo
 ## Featured Projects
 
 ### Incident Intelligence Platform
+Live Link: https://incident-intelligence-platform-psi.vercel.app/login
+GitHub: https://github.com/sarveshyadav21/incident-intelligence-platform
 AI-powered multimodal incident intelligence platform for DevOps and SRE teams. Features incident correlation, AI summarization, workflow automation, analytics, and real-time monitoring.
 
-### AI-Powered SaaS Applications
-Built production-ready full-stack applications with authentication, payments, real-time communication, and cloud deployment.
 
-## Current Focus
-
-- AI Agents & RAG Systems
-- Scalable Backend Architecture
-- Next.js Performance Optimization
-- Distributed Systems
 
 ## Connect With Me
 
-📧 sarveshyadav5971@gmail.com
+📧 **Email:** <sarveshyadav5971@gmail.com>
 
-💼 LinkedIn: linkedin.com/in/sarvesh-yadav-84bb53150
+💼 **LinkedIn:** [linkedin.com/in/sarvesh-yadav-84bb53150](https://www.linkedin.com/in/sarvesh-yadav-84bb53150)
 
-🌍 Bangalore, India
+🌍 **Location:** Bangalore, India
