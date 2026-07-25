@@ -107,7 +107,7 @@ Developed production-ready full-stack applications with:
 
 💼 LinkedIn: [linkedin.com/in/sarvesh-yadav-84bb53150](https://www.linkedin.com/in/sarvesh-yadav-84bb53150)
 
-🌐 Portfolio:[Live](https://sarvesh-yadav-portfolio.vercel.app/)
+🌐 Portfolio: [Live](https://sarvesh-yadav-portfolio.vercel.app/)
 
 📍 Bangalore, India
 
