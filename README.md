@@ -78,16 +78,24 @@ Next.js • NestJS • PostgreSQL • Redis • BullMQ • OpenAI • AWS
 
 ---
 
-## 🤖 AI SaaS Applications
+## 🌐 Personal Portfolio Website
 
-Developed production-ready full-stack applications with:
+**Live Demo:** https://sarvesh-yadav-portfolio.vercel.app/
 
-- Authentication
-- Role-Based Access Control
-- Payments
-- Real-time Communication
-- Cloud Deployment
-- AI Integrations
+A modern, responsive developer portfolio showcasing my projects, technical expertise, work experience, and achievements. Built with performance, accessibility, and clean UI in mind.
+
+**Key Features**
+
+- Responsive Design
+- Interactive Project Showcase
+- Skills & Experience Timeline
+- Resume Download
+- Contact Section
+- Optimized Performance & SEO
+
+**Tech Stack**
+
+Next.js • React • TypeScript • Tailwind CSS • Framer Motion • Vercel
 
 ---
 
@@ -107,7 +115,7 @@ Developed production-ready full-stack applications with:
 
 💼 LinkedIn: [linkedin.com/in/sarvesh-yadav-84bb53150](https://www.linkedin.com/in/sarvesh-yadav-84bb53150)
 
-🌐 Portfolio: [Live](https://sarvesh-yadav-portfolio.vercel.app/)
+🌐 Portfolio: [https://sarvesh-yadav-portfolio.vercel.app/](https://sarvesh-yadav-portfolio.vercel.app/)
 
 📍 Bangalore, India
 
